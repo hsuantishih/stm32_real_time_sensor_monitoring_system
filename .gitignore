@@ -1,0 +1,7 @@
+.metadata/
+.vscode/
+
+project/Debug/
+project/Release/
+
+project/.settings/
